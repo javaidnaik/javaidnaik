@@ -6,7 +6,7 @@ My name is Naik Javaid and I'm a software developer/Ui Designer. I'm from India,
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@naikjavaid) and [DEV.to](https://dev.to/naikjavaid).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [javaid.tech](https://javaid.tech/blog/) as well as on [Medium](https://medium.com/@naikjavaid) and [DEV.to](https://dev.to/naikjavaid).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -54,7 +54,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [1]: https://twitter.com/im_javaid
 [2]: https://github.com/javaidnaik
-[3]: https://www.linkedin.com/in/naikjavaid/
+[3]: https://www.linkedin.com/naikjavaid/
 
 
 <!-- Resources -->
