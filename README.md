@@ -54,7 +54,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [1]: https://twitter.com/im_javaid
 [2]: https://github.com/javaidnaik
-[3]: https://www.linkedin.com/naikjavaid/
+[3]: https://www.linkedin.com/in/naikjavaid/
 
 
 <!-- Resources -->
