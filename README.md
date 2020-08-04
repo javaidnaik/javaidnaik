@@ -4,7 +4,7 @@ My name is Naik Javaid and I'm a software developer/Ui Designer. I'm from India,
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [javaid.tech](https://javaid.tech/blog/) as well as on [Medium](https://medium.com/@naikjavaid) and [DEV.to](https://dev.to/naikjavaid).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [javaid.tech](https://javaid.tech/blog/) as well as on [Medium](https://medium.com/@naikjavaid) and [DEV.to](https://dev.to/im_javaid).
 
 ## 🔧 Technologies & Tools
 
