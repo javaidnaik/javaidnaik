@@ -8,7 +8,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
@@ -46,3 +46,5 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [2]: https://github.com/javaidnaik
 [3]: https://www.linkedin.com/in/naikjavaid/
 ### I'm Available for Freelance.
+
+#### Contact Me at hey@javaid.tech
