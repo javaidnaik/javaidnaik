@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Naik Javaid and I'm a software developer/Ui Designer. I'm from India, living in Anantnag and currently doing a freelancing. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Naik Javaid and I'm a software developer/Ui Designer. I'm from India, living in Anantnag and currently doing a freelancing. You can find me on [![Twitter][1.2]][1].
 
 ## &#x270d; Blog & Writing
 
@@ -36,14 +36,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/javaidnaik/javaidnaik/master/linkedin-3-16.png (LinkedIn icon without padding)
-
 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/im_javaid
 [2]: https://github.com/javaidnaik
-[3]: https://www.linkedin.com/in/naikjavaid/
 ### I'm Available for Freelance.
 
 #### Contact Me at hey@javaid.tech to get a Free Quote.
