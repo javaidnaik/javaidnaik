@@ -1,17 +1,12 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Naik Javaid and I'm a software developer/Ui Designer. I'm from India, living in Anantnag and currently doing a freelancing. You can find me on [![Twitter][1.2]][1].
+My name is Naik Javaid and I'm a software developer/Ui Dev. I'm from India, living in Anantnag and currently doing a freelancing. You can find me on [![Twitter][1.2]][1].
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [javaid.tech](https://javaid.tech/blog/) as well as on [Medium](https://medium.com/@naikjavaid) and [DEV.to](https://dev.to/im_javaid).
 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
