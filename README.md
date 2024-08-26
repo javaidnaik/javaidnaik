@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Naik Javaid and I'm a software developer/Ui Dev. I'm from India, living in Anantnag and currently doing a freelancing. You can find me on [![Twitter][1.2]][1].
+My name is Naik Javaid and I'm a software developer/Ui Dev. I'm from India, living in Anantnag, and currently freelancing. You can find me on [![Twitter][1.2]][1].
 
 
 ## 🔧 Technologies & Tools
@@ -38,4 +38,4 @@ My name is Naik Javaid and I'm a software developer/Ui Dev. I'm from India, livi
 [2]: https://github.com/javaidnaik
 ### I'm Available for Freelance.
 
-#### Contact Me at hey@javaid.tech to get a Free Quote.
+#### Contact Me at hey@javaid.in to get a Free Quote.
