@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Naik Javaid and I'm a software developer/Ui Dev. I'm from India, living in Anantnag, and currently freelancing. You can find me on [![Twitter][1.2]][1].
+My name is Javaid Ahmad and I'm a software developer/Ui Dev. I'm from India, living in Anantnag, and currently freelancing. You can find me on [![Twitter][1.2]][1].
 
 
 ## 🔧 Technologies & Tools
