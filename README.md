@@ -16,9 +16,6 @@ My name is Javaid Ahmad and I'm a software developer/Ui Dev. I'm from India, liv
 <a href="https://github.com/javaidnaik/javaidnaik">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaidnaik&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/javaidnaik/javaidnaik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=javaidnaik&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a> 
 
 <!-- links to social media icons -->
 
