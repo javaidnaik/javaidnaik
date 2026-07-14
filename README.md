@@ -35,4 +35,4 @@ My name is Javaid Ahmad and I'm a software developer/Ui Dev. I'm from India, liv
 [2]: https://github.com/javaidnaik
 ### I'm Available for Freelance.
 
-#### Contact Me at hey@javaid.in to get a Free Quote.
+#### Contact Me at hello@javaid.dev to get a Free Quote.
